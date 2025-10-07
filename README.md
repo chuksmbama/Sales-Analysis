@@ -1,2 +1,4 @@
-# Sales-Analysis
-I developed an interactive dashboard to analyze the sales data using power bi. This process involved several stages including loading the data from excel to power query, cleaning the data and data visualization
+# Sales-Analysis (interactive Dashboard using Power BI)
+## Project objective
+The project serves as a decision-making companion for sales and strategy teams, revealing high-impact products, regional opportunities and trends that shape profitability. 
+
