@@ -12,7 +12,8 @@ The project serves as a decision-making companion for sales and strategy teams, 
 - created visuals
 
 ## dashboard
-<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/b9d7a364-5b9e-4894-9129-89433f249594" />
+<img width="1317" height="775" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/554f4d17-e1d8-48eb-a76b-4fb5e94c87a8" />
+
 
 ## Project insight
 -	Profits peak during November each year, indicating strong end-of-year or holiday season sales
